@@ -2,23 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/home/about/</loc>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/2017/02/10/about-parents-guide</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
   </url>
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/parks/park1/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/home/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/2017/02/10/hello-visitor</loc>
-    <lastmod>2017-02-10T19:44:00+11:00</lastmod>
   </url>
   
   <url>
@@ -51,12 +41,6 @@
   </url>
   
   <url>
-    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/home/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/locations/</loc>
     <priority>0</priority>
   </url>
@@ -81,7 +65,7 @@
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/post/</loc>
-    <lastmod>2017-02-10T19:44:00+11:00</lastmod>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
