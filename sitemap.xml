@@ -2,19 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/2017/02/10/welcome-to-melbourne</loc>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/home/about/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/home/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/parks/park1/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/2017/02/10/hello-visitor</loc>
     <lastmod>2017-02-10T19:44:00+11:00</lastmod>
   </url>
   
   <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/</loc>
-    <lastmod>2017-02-10T19:44:00+11:00</lastmod>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/free/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/home/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/park/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/categories/parks/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/parks/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/post/</loc>
     <lastmod>2017-02-10T19:44:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/</loc>
     <priority>0</priority>
   </url>
   

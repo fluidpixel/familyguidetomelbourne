@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Family Guide to Melbourne</title>
+    <link>https://fluidpixel.github.io/parentsguidetomelbourne/home/index.xml</link>
+    <description>Recent content in Homes on Family Guide to Melbourne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Fri, 10 Feb 2017 21:03:54 +1100</lastBuildDate>
+    <atom:link href="https://fluidpixel.github.io/parentsguidetomelbourne/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Parents Guide</title>
+      <link>https://fluidpixel.github.io/parentsguidetomelbourne/home/about/</link>
+      <pubDate>Fri, 10 Feb 2017 21:03:54 +1100</pubDate>
+      
+      <guid>https://fluidpixel.github.io/parentsguidetomelbourne/home/about/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s some information here about us.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
