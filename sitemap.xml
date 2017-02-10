@@ -7,12 +7,12 @@
   </url>
   
   <url>
-    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/home/</loc>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/parks/park1/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/parks/park1/</loc>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/home/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
   </url>
   
@@ -22,7 +22,19 @@
   </url>
   
   <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/baby-swings/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/cover/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,13 +57,12 @@
   </url>
   
   <url>
-    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/park/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/locations/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/categories/parks/</loc>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/park/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
@@ -63,8 +74,50 @@
   </url>
   
   <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/categories/play-parks/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/post/</loc>
     <lastmod>2017-02-10T19:44:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/roundabout/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/sand/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/see-saw/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/slide/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/locations/stkilda/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/swings/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   

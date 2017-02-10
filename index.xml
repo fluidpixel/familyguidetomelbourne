@@ -21,17 +21,7 @@
     </item>
     
     <item>
-      <title>Home</title>
-      <link>https://fluidpixel.github.io/parentsguidetomelbourne/home/</link>
-      <pubDate>Fri, 10 Feb 2017 21:03:54 +1100</pubDate>
-      
-      <guid>https://fluidpixel.github.io/parentsguidetomelbourne/home/</guid>
-      <description>&lt;p&gt;This is the home Page&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Play Park Here</title>
+      <title>Catani Gardens Park</title>
       <link>https://fluidpixel.github.io/parentsguidetomelbourne/parks/park1/</link>
       <pubDate>Fri, 10 Feb 2017 21:03:54 +1100</pubDate>
       
@@ -52,6 +42,16 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://fluidpixel.github.io/parentsguidetomelbourne/home/</link>
+      <pubDate>Fri, 10 Feb 2017 21:03:54 +1100</pubDate>
+      
+      <guid>https://fluidpixel.github.io/parentsguidetomelbourne/home/</guid>
+      <description>&lt;p&gt;This is the home Page&lt;/p&gt;
 </description>
     </item>
     
