@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Family Guide to Melbourne</title>
+    <link>https://fpstudios.github.io/parentsguidetomelbourne/index.xml</link>
+    <description>Recent content on Family Guide to Melbourne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Fri, 10 Feb 2017 19:44:00 +1100</lastBuildDate>
+    <atom:link href="https://fpstudios.github.io/parentsguidetomelbourne/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome To Melbourne</title>
+      <link>https://fpstudios.github.io/parentsguidetomelbourne/2017/02/10/welcome-to-melbourne</link>
+      <pubDate>Fri, 10 Feb 2017 19:44:00 +1100</pubDate>
+      
+      <guid>https://fpstudios.github.io/parentsguidetomelbourne/2017/02/10/welcome-to-melbourne</guid>
+      <description>&lt;p&gt;As a new family in the amazing city of Melbourne we wanted to explore all that the city has to offer for a young family.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
