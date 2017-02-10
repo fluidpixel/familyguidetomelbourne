@@ -1,4 +1,4 @@
-baseurl = "https://fpstudios.github.io/parentsguidetomelbourne/"
+baseurl = "https://fluidpixel.github.io/parentsguidetomelbourne/"
 languageCode = "en-au"
 title = "Family Guide to Melbourne"
 # Enable comments by entering your Disqus shortname
@@ -42,28 +42,27 @@ theme = "hugo-icarus-theme"
 [[params.menu]]
     before = true
     label  = "Home"
-    link   = "/"
+    link   = "home"
 
 [[params.menu]]
     before = false
-    label  = "Tags"
-    link   = "tags/"
-
+    label  = "Play Parks"
+    link   = "parks/"
+    
 [[params.menu]]
     before = false
-    label  = "Categories"
+    label  = "Things To Do"
     link   = "categories/"
-
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/fpstudios"
+    follow_button = "about"
 
 
 [social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    github          = "fpstudios"
+    github          = ""
     gitlab          = ""
     bitbucket       = ""
     jsfiddle        = ""
