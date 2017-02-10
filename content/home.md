@@ -6,7 +6,7 @@ date = "2017-02-10T21:03:54+11:00"
 title = "Home"
 images = []
 banner = ""
-menu = ""
+menu = "Home"
 noprevnext = true
 nodateline = true
 

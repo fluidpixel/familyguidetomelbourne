@@ -10,6 +10,10 @@ paginate = 10
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+location = "locations"
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
@@ -24,7 +28,7 @@ theme = "hugo-icarus-theme"
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
     avatar = "css/images/avatar.png"
     logo = "css/images/logo.png"
-    disable_mathjax = false # set to true to disable MathJax
+    disable_mathjax = true # set to true to disable MathJax
 
     # Format dates with Go's time formatting
     date_format = "02-01-2006"
@@ -39,10 +43,10 @@ theme = "hugo-icarus-theme"
 #
 # E.g.: "Home" appears before all linked posts in the menu
 # and "Tags" / "Categories" after them.
-[[params.menu]]
-    before = true
-    label  = "Home"
-    link   = "home"
+# [[params.menu]]
+#     before = true
+#     label  = "Home"
+#     link   = "home"
 
 [[params.menu]]
     before = false
@@ -53,10 +57,15 @@ theme = "hugo-icarus-theme"
     before = false
     label  = "Things To Do"
     link   = "categories/"
+    
+[[params.menu]]
+    before = false
+    label  = "By Location"
+    link   = "locations/"
+    
 # Enter a link for the follow button on the left
 [params.profile]
     follow_button = "about"
-
 
 [social]
 # Add your social network accounts to the profile section on the left
@@ -95,5 +104,6 @@ theme = "hugo-icarus-theme"
 [params.widgets]
     recent_articles = true
     categories = true
-    tags = true
-    tag_cloud = true
+    tags = false
+    locations = true
+    tag_cloud = false
