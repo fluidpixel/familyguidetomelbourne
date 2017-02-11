@@ -52,11 +52,11 @@ location = "locations"
     before = false
     label  = "Play Parks"
     link   = "parks/"
-    
+
 [[params.menu]]
     before = false
-    label  = "Things To Do"
-    link   = "categories/"
+    label  = "Outdoor"
+    link   = "categories/outdoor"
     
 [[params.menu]]
     before = false
@@ -65,7 +65,7 @@ location = "locations"
     
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "about"
+    follow_button = "/parentsguidetomelbourne/2017/02/10/about-family-guide-to-melbourne"
 
 [social]
 # Add your social network accounts to the profile section on the left

@@ -12,7 +12,7 @@ noprevnext = false
 nodateline = false
 +++
 
-Here's some information here about Play Park number 1.
+Here's some information here about Catani Gardens.
 
 {{< gallery
     "/parentsguidetomelbourne/parks/images/park1.JPG"
