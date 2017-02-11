@@ -12,12 +12,22 @@
   </url>
   
   <url>
-    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/posts/melbourneZoo/</loc>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/outdoor/melbourneZoo/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
   </url>
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/parks/peanutFarmReserve/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
   </url>
   
@@ -75,12 +85,6 @@
   </url>
   
   <url>
-    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/food/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
     <priority>0</priority>
@@ -99,6 +103,12 @@
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/categories/outdoor/</loc>
+    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/outdoor/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
