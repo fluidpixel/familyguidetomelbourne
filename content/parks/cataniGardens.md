@@ -7,9 +7,9 @@ locations = ["stKilda"]
 date = "2017-02-10T21:03:54+11:00"
 title = "Catani Gardens Park"
 banner = "parks/images/park1_banner.JPG"
-menu = "new"
+menu = ""
 noprevnext = false
-nodateline = false
+nodateline = true
 +++
 
 Here's some information here about Catani Gardens.
