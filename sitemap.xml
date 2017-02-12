@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/parks/stKildaBotanicalGardens/</loc>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/posts/about/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
   </url>
@@ -45,7 +50,7 @@
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/baby-swings/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -68,13 +73,13 @@
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/climbing/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/cover/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,7 +97,13 @@
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/free/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/grass/</loc>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,7 +114,7 @@
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/categories/outdoor/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,13 +126,13 @@
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/park/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/parks/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -133,13 +144,19 @@
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/categories/play-parks/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/playhouse/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/pond/</loc>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -169,7 +186,7 @@
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/slide/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -181,13 +198,13 @@
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/locations/stkilda/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/swings/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -205,6 +222,18 @@
   <url>
     <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/toilets/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/trees/</loc>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fluidpixel.github.io/parentsguidetomelbourne/tags/wildlife/</loc>
+    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
