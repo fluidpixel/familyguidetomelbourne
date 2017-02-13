@@ -25,6 +25,6 @@ Features  | Info
   Cleanliness | great
   
 {{< gallery
-    "/parentsguidetomelbourne/parks/images/stKildaBotanical1.jpg"
-    "/parentsguidetomelbourne/parks/images/stKildaBotanical2.jpg"
+    "/parks/images/stKildaBotanical1.jpg"
+    "/parks/images/stKildaBotanical2.jpg"
 >}}

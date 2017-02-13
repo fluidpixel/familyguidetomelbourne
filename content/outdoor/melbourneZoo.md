@@ -21,5 +21,5 @@ Features  | Info
   Cleanliness | Great
   
 {{< gallery
-    "/parentsguidetomelbourne/outdoor/images/zoo.JPG"
+    "/outdoor/images/zoo.JPG"
 >}}

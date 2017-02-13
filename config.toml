@@ -65,7 +65,7 @@ location = "locations"
     
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "/parentsguidetomelbourne/2017/02/10/about-family-guide-to-melbourne"
+    follow_button = "posts/about"
 
 [social]
 # Add your social network accounts to the profile section on the left

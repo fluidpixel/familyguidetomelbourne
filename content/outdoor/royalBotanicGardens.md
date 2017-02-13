@@ -2,7 +2,7 @@
 description = ""
 categories = ["outdoor"]
 tags = ["park","free","lake"]
-locations = ["CBD"]
+locations = ["central-melbourne"]
 
 date = "2017-02-10T21:03:54+11:00"
 title = "Royal Botanic Gardens"
@@ -23,9 +23,9 @@ Features  | Info
   Cleanliness | Great
   
 {{< gallery
-    "/parentsguidetomelbourne/outdoor/images/royalGardens1.JPG"
-    "/parentsguidetomelbourne/outdoor/images/royalGardens2.JPG"
-    "/parentsguidetomelbourne/outdoor/images/royalGardens3.JPG"
-    "/parentsguidetomelbourne/outdoor/images/royalGardens4.JPG"
-    "/parentsguidetomelbourne/outdoor/images/royalGardens5.JPG"
+    "/outdoor/images/royalGardens1.JPG"
+    "/outdoor/images/royalGardens2.JPG"
+    "/outdoor/images/royalGardens3.JPG"
+    "/outdoor/images/royalGardens4.JPG"
+    "/outdoor/images/royalGardens5.JPG"
 >}}
