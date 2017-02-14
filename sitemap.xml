@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://familyguidetomelbourne.com/parks/jTalbotReserve/</loc>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://familyguidetomelbourne.com/parks/stKildaBotanicalGardens/</loc>
     <lastmod>2017-02-12T22:04:54+11:00</lastmod>
   </url>
@@ -55,7 +60,13 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/baby-swings/</loc>
-    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/tags/balance/</loc>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,7 +78,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/basketball/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -84,7 +95,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/climbing/</loc>
-    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -108,7 +119,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/free/</loc>
-    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,13 +154,13 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/park/</loc>
-    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://familyguidetomelbourne.com/parks/</loc>
-    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -161,7 +172,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/categories/play-parks/</loc>
-    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -203,7 +214,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/slide/</loc>
-    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -215,13 +226,13 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/locations/stkilda/</loc>
-    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/swings/</loc>
-    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <lastmod>2017-02-15T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
