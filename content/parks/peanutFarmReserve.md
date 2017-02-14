@@ -27,5 +27,5 @@ Features  | Info
   Cleanliness | great
   
 {{< gallery
-    "/parentsguidetomelbourne/parks/images/peanut1.JPG"
+    "/parks/images/peanut1.JPG"
 >}}

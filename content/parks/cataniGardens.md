@@ -14,7 +14,13 @@ nodateline = true
 
 Here's some information here about Catani Gardens.
 
+Features  | Info
+  ------------- | -------------
+  Shade  | none
+  Age  | 2+
+  Cleanliness | great
+  
 {{< gallery
-    "/parentsguidetomelbourne/parks/images/park1.JPG"
-    "/parentsguidetomelbourne/parks/images/park1b.JPG"
+    "/parks/images/park1.JPG"
+    "/parks/images/park1b.JPG"
 >}}

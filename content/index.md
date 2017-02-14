@@ -14,4 +14,6 @@ disable_widgets = false
 
 +++
 
-Welcome to our site.
+Welcome to our site. The growing collection of family friendly parks, activities and events in Melbourne, Australia.
+
+Please have an explore around, and enjoy discovering the delights of this amazing city and surrounding region.
