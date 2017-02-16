@@ -36,7 +36,7 @@ location = "locations"
     # Add custom assets with their paths relative to the static folder
 	custom_css = []
 	custom_js  = []
-
+    
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
 # place the links before or after them.
@@ -106,4 +106,4 @@ location = "locations"
     categories = true
     tags = false
     locations = true
-    tag_cloud = false
+    tag_cloud = true

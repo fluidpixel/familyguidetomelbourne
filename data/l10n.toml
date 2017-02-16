@@ -21,6 +21,7 @@
     follow_button = "About"
     tags = "Tags"
     posts = "Posts"
+    parks = "Parks"
 
 [page_not_found]
     title = "404 - page not found"
