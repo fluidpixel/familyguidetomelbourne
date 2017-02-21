@@ -1,7 +1,7 @@
 +++
 description = ""
 categories = ["play-parks"]
-tags = ["park","free","slide","swings","baby-swings","climbing","balance","basketball","assault"]
+tags = ["park","free","slide","swings","baby-swings","climbing","balance","basketball","assault","themed"]
 locations = ["eastMelbourne"]
 
 date = "2017-02-18T21:03:54+11:00"
