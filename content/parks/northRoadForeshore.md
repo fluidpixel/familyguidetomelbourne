@@ -1,7 +1,7 @@
 +++
 description = ""
 categories = ["play-parks"]
-tags = ["park","free","slide","cover","boat","rockers","pirates","themed","toilets","cafe"]
+tags = ["park","free","slide","cover","boat","rockers","pirates","themed","toilets","cafe","sea"]
 locations = ["bayside"]
 
 date = "2017-02-22T20:46:54+11:00"

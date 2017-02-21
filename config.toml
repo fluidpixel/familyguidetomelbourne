@@ -57,6 +57,11 @@ location = "locations"
     before = false
     label  = "Outdoor"
     link   = "categories/outdoor"
+
+[[params.menu]]
+    before = false
+    label  = "Indoor"
+    link   = "categories/indoor"
     
 [[params.menu]]
     before = false
