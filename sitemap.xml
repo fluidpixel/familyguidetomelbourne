@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://familyguidetomelbourne.com/parks/northRoadForeshore/</loc>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/indoor/melbourneMuseum/</loc>
+    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://familyguidetomelbourne.com/parks/yarraPark/</loc>
     <lastmod>2017-02-18T21:03:54+11:00</lastmod>
   </url>
@@ -58,7 +68,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,8 +115,26 @@
   </url>
   
   <url>
+    <loc>https://familyguidetomelbourne.com/locations/bayside/</loc>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/tags/boat/</loc>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://familyguidetomelbourne.com/tags/cafe/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/locations/carlton/</loc>
+    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -129,7 +157,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/cover/</loc>
-    <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -147,7 +175,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/events/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -159,19 +187,37 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/food/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/free/</loc>
-    <lastmod>2017-02-18T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/grass/</loc>
     <lastmod>2017-02-12T22:04:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/tags/indoor/</loc>
+    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/categories/indoor/</loc>
+    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/indoor/</loc>
+    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -183,6 +229,18 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/locations/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/tags/museum/</loc>
+    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/categories/museum/</loc>
+    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -200,13 +258,13 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/park/</loc>
-    <lastmod>2017-02-18T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://familyguidetomelbourne.com/parks/</loc>
-    <lastmod>2017-02-18T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -217,8 +275,20 @@
   </url>
   
   <url>
+    <loc>https://familyguidetomelbourne.com/tags/pirates/</loc>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://familyguidetomelbourne.com/categories/play-parks/</loc>
-    <lastmod>2017-02-18T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/tags/playground/</loc>
+    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -241,6 +311,12 @@
   </url>
   
   <url>
+    <loc>https://familyguidetomelbourne.com/tags/rockers/</loc>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://familyguidetomelbourne.com/tags/roundabout/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
     <priority>0</priority>
@@ -253,6 +329,12 @@
   </url>
   
   <url>
+    <loc>https://familyguidetomelbourne.com/tags/sea/</loc>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://familyguidetomelbourne.com/tags/see-saw/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
     <priority>0</priority>
@@ -260,7 +342,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/slide/</loc>
-    <lastmod>2017-02-18T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -306,8 +388,14 @@
   </url>
   
   <url>
+    <loc>https://familyguidetomelbourne.com/tags/themed/</loc>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://familyguidetomelbourne.com/tags/toilets/</loc>
-    <lastmod>2017-02-10T21:03:54+11:00</lastmod>
+    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
