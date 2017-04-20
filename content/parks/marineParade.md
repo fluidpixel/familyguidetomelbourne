@@ -6,7 +6,7 @@ locations = ["stKilda"]
 
 date = "2017-04-20T21:03:54+11:00"
 title = "Marine Parade"
-banner = "parks/images/park1_banner.JPG"
+banner = "parks/images/marine_banner.JPG"
 menu = ""
 noprevnext = false
 nodateline = true
@@ -23,8 +23,8 @@ Features  | Info
   Cleanliness | fair
   
 {{< gallery
-    "/parks/images/park1.JPG"
-    "/parks/images/park1b.JPG"
+    "/parks/images/marine_1.JPG"
+    "/parks/images/marine_2.JPG"
 >}}
 
 Marine Parade,
