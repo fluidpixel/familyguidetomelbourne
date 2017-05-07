@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://familyguidetomelbourne.com/indoor/StKildaSeaBaths/</loc>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://familyguidetomelbourne.com/parks/marineParade/</loc>
     <lastmod>2017-04-20T21:03:54+11:00</lastmod>
   </url>
@@ -73,7 +78,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/</loc>
-    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -139,7 +144,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/cafe/</loc>
-    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -198,7 +203,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/food/</loc>
-    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -216,19 +221,19 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/indoor/</loc>
-    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://familyguidetomelbourne.com/categories/indoor/</loc>
-    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://familyguidetomelbourne.com/indoor/</loc>
-    <lastmod>2017-02-21T21:03:54+11:00</lastmod>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -316,6 +321,12 @@
   </url>
   
   <url>
+    <loc>https://familyguidetomelbourne.com/categories/pools/</loc>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://familyguidetomelbourne.com/posts/</loc>
     <lastmod>2017-02-10T21:03:54+11:00</lastmod>
     <priority>0</priority>
@@ -324,6 +335,12 @@
   <url>
     <loc>https://familyguidetomelbourne.com/tags/rockers/</loc>
     <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/tags/rooftop/</loc>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -341,7 +358,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/sea/</loc>
-    <lastmod>2017-02-22T20:46:54+11:00</lastmod>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -377,7 +394,13 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/locations/stkilda/</loc>
-    <lastmod>2017-04-20T21:03:54+11:00</lastmod>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://familyguidetomelbourne.com/tags/swimming/</loc>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -412,7 +435,7 @@
   
   <url>
     <loc>https://familyguidetomelbourne.com/tags/toilets/</loc>
-    <lastmod>2017-04-20T21:03:54+11:00</lastmod>
+    <lastmod>2017-05-07T21:03:54+11:00</lastmod>
     <priority>0</priority>
   </url>
   
