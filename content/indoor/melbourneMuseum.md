@@ -15,7 +15,7 @@ The Melbourne Museum is a great day out for the family. For toddlers to five yea
 
 For the rest of the family the museum offers a mix of exhibits, including an excellent dinosaur and animal zone, a historical Aboriginal area, an alive rainforest and a human body exhibition. All in all it's easily a days worth of information if you do things properly, although we've been over a number of times and still not seen everything properly.
 
-A yearly pass not only includes access here, but also to the Immigration Museum and Scienceworks so is great value, even if you are just visiting the 3 venues.
+A yearly pass not only includes access here, but also to the Immigration Museum and ScienceWorks so is great value, even if you are just visiting the 3 venues.
 
 There's an IMAX cinema attached to the museum, although the tickets are expensive and the shows limited, it could be good entertainment for the big kids.
 
